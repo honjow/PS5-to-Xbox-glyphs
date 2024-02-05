@@ -1,5 +1,5 @@
 {
-  "name":"Legion Go - PS5 controller emulator to xbox glyphs",
+  "name":"PS5 controller emulator to xbox glyphs",
   "author":"azu, stolen from Akaza Renn",
   "version":"v0.2",
   "manifest_version":1,
@@ -22,7 +22,7 @@
      },
      "Replace PS glyphs with Xbox":{
         "type":"checkbox",
-        "default":"No",
+        "default":"Yes",
         "values":{
            "Yes":{
               "ps.css":[
