@@ -6,7 +6,7 @@
   "patches":{
      "Replace PS glyphs with Xbox":{
         "type":"checkbox",
-        "default":"No",
+        "default":"Yes",
         "values":{
            "Yes":{
               "ps.css":[
@@ -22,7 +22,7 @@
      },
      "Replace menu button with Steam":{
         "type":"checkbox",
-        "default":"Yes",
+        "default":"No",
         "values":{
            "Yes":{
               "sd_steam_button.css":[
